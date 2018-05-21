@@ -37,6 +37,6 @@ $ npm install -g gulp
 
 执行项目
 ```Sh
-$ npm isntall
+$ npm install
 $ gulp
 ```
